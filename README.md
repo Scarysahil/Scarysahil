@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student in Germany.<br>New to data science <br>Also engaging with data to make it perfect
+I'm currently a student in Germany.<br> Data Science & AI <br>Passionate about machine learning, models, and making sense of messy data - fueled by a lot of coffee. ☕
 
 
 ## 🌐 Socials:
